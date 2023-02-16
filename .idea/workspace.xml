@@ -1,84 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b4d3e06-a332-46e7-9201-044ab81b7ba6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/hw06_16_11_2022/Exercise1/src/Bank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Homework.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_03_11_2022/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_03_11_2022/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_03_11_2022/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_03_11_2022/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_03_11_2022/hw_03_11_2022.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_03_11_2022/out/production/hw_03_11_2022/Exercise1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_03_11_2022/out/production/hw_03_11_2022/Exercise2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_03_11_2022/out/production/hw_03_11_2022/Exercise3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_03_11_2022/out/production/hw_03_11_2022/Exercise4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_03_11_2022/src/Exercise1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_03_11_2022/src/Exercise2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_03_11_2022/src/Exercise3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_03_11_2022/src/Exercise4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_12_10_2022/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_12_10_2022/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_12_10_2022/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_12_10_2022/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_12_10_2022/HW_12_10_2022.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_12_10_2022/out/production/HW_12_10_2022/Exercise1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_12_10_2022/out/production/HW_12_10_2022/Exercise2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_12_10_2022/out/production/HW_12_10_2022/Exercise3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_12_10_2022/out/production/HW_12_10_2022/Exercise4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_12_10_2022/out/production/HW_12_10_2022/Exercise5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_12_10_2022/src/Exercise1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_12_10_2022/src/Exercise2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_12_10_2022/src/Exercise3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_12_10_2022/src/Exercise4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_12_10_2022/src/Exercise5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_12_11_2022/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_12_11_2022/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_12_11_2022/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_12_11_2022/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_12_11_2022/hw_12_11_2022.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_12_11_2022/out/production/hw_12_11_2022/Exercise1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_12_11_2022/out/production/hw_12_11_2022/Exercise2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_12_11_2022/src/Exercise1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_12_11_2022/src/Exercise2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_21_10_2022/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_21_10_2022/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_21_10_2022/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_21_10_2022/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_21_10_2022/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_21_10_2022/hm_21_10_2022.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_21_10_2022/hw_21_10_2022.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_21_10_2022/out/production/hm_21_10_2022/Exercise1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_21_10_2022/out/production/hm_21_10_2022/Exercise2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_21_10_2022/out/production/hm_21_10_2022/Exercise3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_21_10_2022/src/Exercise1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_21_10_2022/src/Exercise2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_21_10_2022/src/Exercise3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_28_10_2022/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_28_10_2022/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_28_10_2022/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_28_10_2022/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_28_10_2022/hm_28_10_2022.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_28_10_2022/hw_28_10_2022.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_28_10_2022/out/production/hm_28_10_2022/Exercise1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_28_10_2022/out/production/hm_28_10_2022/Exercise2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_28_10_2022/src/Exercise1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_28_10_2022/src/Exercise2.java" beforeDir="false" />
-    </list>
+    <list default="true" id="8ffdf6dc-804c-41c1-9e11-e413e9091903" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
-  <component name="ProjectId" id="2Hk097Wxz4mYo58FpyaxCEiusbz" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LpEmgaMBEk1logGAgfwp4ro1U0" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -87,29 +29,38 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/TelRan/Basic_Java/Homework"
+    "last_opened_file_path": "D:/TelRan/Java/HomeWork"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hw_10_02_2023.Main" />
+      <module name="NewHomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hw_10_02_2023.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6b4d3e06-a332-46e7-9201-044ab81b7ba6" name="Changes" comment="" />
-      <created>1668813619503</created>
+      <changelist id="8ffdf6dc-804c-41c1-9e11-e413e9091903" name="Changes" comment="" />
+      <created>1676559785568</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1668813619503</updated>
+      <updated>1676559785568</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
