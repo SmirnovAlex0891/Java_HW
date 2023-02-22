@@ -12,6 +12,7 @@ public class Employee {
         this.salary = salary;
         this.department = department;
     }
+
     public Employee(String fullName, double salary, Department department) {
         this.fullName = fullName;
         this.jobTitle = "Freelance";
@@ -50,6 +51,7 @@ public class Employee {
     public void setDepartment(Department department) {
         this.department = department;
     }
+
     public String toString() {
         return "Name: " + this.fullName +
                 "\n" + "Job Title: " + this.jobTitle +
