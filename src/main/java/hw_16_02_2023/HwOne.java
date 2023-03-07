@@ -1,6 +1,6 @@
-package Hw_16_02_2023;
+package hw_16_02_2023;
 
-public class Hw1 {
+public class HwOne {
     public static void main(String[] args) {
         MeansOfTransport m1 = MeansOfTransport.PLANE;
         MeansOfTransport m2 = MeansOfTransport.TRAIN;

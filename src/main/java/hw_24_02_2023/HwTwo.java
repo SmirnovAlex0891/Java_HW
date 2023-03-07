@@ -1,8 +1,15 @@
-package Hw_24_02_2023;
+package hw_24_02_2023;
 
 import java.util.Arrays;
 
-public class Hw2 {
+/**
+ * Дано целое число, представленное его разрядами, которые записаны в массив.
+ * Например, число 123 представляется массивом [1, 2, 3]. Получите массив, который
+ * преставляет сумму исходного числа и 1.
+ * Example 1: Input: digits = [1,2,3] Output: [1,2,4] Explanation: The array represents the integer 123.
+ * Incrementing by one gives 123 + 1 = 124. Thus, the result
+ */
+public class HwTwo {
     public static void main(String[] args) {
         int[] num = {1, 2, 3};
         System.out.println(Arrays.toString(sum(num)));

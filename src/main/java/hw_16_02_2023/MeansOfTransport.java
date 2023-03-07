@@ -1,4 +1,4 @@
-package Hw_16_02_2023;
+package hw_16_02_2023;
 
 public enum MeansOfTransport {
     PLANE(1.1) {

@@ -1,4 +1,4 @@
-package Hw_10_02_2023;
+package hw_10_02_2023;
 
 public class Department {
     private String nameDepartment;
