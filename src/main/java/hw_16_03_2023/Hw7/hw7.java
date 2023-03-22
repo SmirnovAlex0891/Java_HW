@@ -1,4 +1,4 @@
-package hw_16_02_2023.hw_16_03_2023.Hw7;
+package hw_16_03_2023.Hw7;
 
 import com.github.javafaker.Faker;
 

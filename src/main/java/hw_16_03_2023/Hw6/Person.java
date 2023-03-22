@@ -1,4 +1,4 @@
-package hw_16_02_2023.hw_16_03_2023.Hw6;
+package hw_16_03_2023.Hw6;
 
 import lombok.AllArgsConstructor;
 import lombok.ToString;

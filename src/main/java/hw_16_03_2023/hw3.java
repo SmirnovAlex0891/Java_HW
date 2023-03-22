@@ -1,4 +1,4 @@
-package hw_16_02_2023.hw_16_03_2023;
+package hw_16_03_2023;
 
 import java.util.Arrays;
 import java.util.HashSet;
