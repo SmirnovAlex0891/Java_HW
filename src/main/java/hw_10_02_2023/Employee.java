@@ -1,6 +1,6 @@
 package hw_10_02_2023;
 
-public class Employee {
+class Employee {
     private String fullName;
     private String jobTitle;
     private double salary;

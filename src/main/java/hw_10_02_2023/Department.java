@@ -1,6 +1,6 @@
 package hw_10_02_2023;
 
-public class Department {
+class Department {
     private String nameDepartment;
     private int numberOfEmployees;
     private Firm firm;

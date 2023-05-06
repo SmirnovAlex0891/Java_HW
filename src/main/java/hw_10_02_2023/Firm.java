@@ -1,6 +1,6 @@
 package hw_10_02_2023;
 
-public class Firm {
+class Firm {
     private String nameFirm;
 
     public Firm(String nameFirm) {
