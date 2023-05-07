@@ -1,6 +1,6 @@
 package hw_16_03_2023.Hw7;
 
-public class Book implements Comparable<Book>{
+class Book implements Comparable<Book>{
     private String title;
     private String author;
     private int price;
