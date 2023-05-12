@@ -16,3 +16,4 @@
 - [Home Work 21.04.2023](https://github.com/SmirnovAlex0891/Java_HW/tree/master/src/main/java/hw_21_04_2023)
 - [Home Work 25.04.2023](https://github.com/SmirnovAlex0891/Java_HW/tree/master/src/main/java/hw_25_04_2023)
 - [Home Work 02.05.2023](https://github.com/SmirnovAlex0891/Java_HW/tree/master/src/main/java/hw_02_05_2023)
+- [Home Work 05.05.2023](https://github.com/SmirnovAlex0891/Java_HW/tree/master/src/main/java/hw_05_05_2023)
